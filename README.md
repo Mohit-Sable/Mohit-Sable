@@ -64,12 +64,6 @@
 </div>
 <br>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohit-Sable&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-
 ## 🌐 Socials:
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aryan-bhokare/Aryan-bhokare/blob/main/assets/93195.gif">
@@ -83,6 +77,13 @@
   <img align="center" alt="Linkedin" width="120" hight="80" src="https://github.com/aryan-bhokare/Aryan-bhokare/blob/main/assets/icons/linkedin.png" />
 </br>
 </div>
+
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohit-Sable&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
 
 <br><br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
