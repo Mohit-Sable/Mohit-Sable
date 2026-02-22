@@ -34,39 +34,39 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="80" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="120" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="120" alt="css logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="120" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="120" alt="java logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="120" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=c" height="80" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="120" alt="c logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="120" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="120" alt="express logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="120" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="80" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="120" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="120" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bash" height="80" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="120" alt="bash logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postman" height="80" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="120" alt="postman logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="120" alt="figma logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="120" alt="vscode logo"  />
 </div>
 
 ###
-<br><br>
+
 
 ###
 
