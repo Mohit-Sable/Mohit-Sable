@@ -62,10 +62,26 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vscode" height="120" alt="vscode logo"  />
 </div>
+<br>
 
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mohit-Sable&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+
+## 🌐 Socials:
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/aryan-bhokare/Aryan-bhokare/blob/main/assets/93195.gif">
+</div>
+<br>
+<div align="center">
+<a href="mailto:aryan1bhokare@gmail.com">
+ <img align="center" alt="Gmail" width="100" hight="80" src="https://github.com/aryan-bhokare/Aryan-bhokare/blob/main/assets/icons/gmail.png" />
+</a>
+<a href="https://linkedin.com/in/aryan-b-3803751a7">
+  <img align="center" alt="Linkedin" width="120" hight="80" src="https://github.com/aryan-bhokare/Aryan-bhokare/blob/main/assets/icons/linkedin.png" />
+</br>
 </div>
 
 <br><br>
