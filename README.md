@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohit and I'm pursuing B-Tech degree in Computer Science Engineering.</h2>
+<h2 align="left">My name is Mohit and I'm pursuing B-Tech degree in Computer Science Engineering.</h2>
 
 ## Hello, Nice to Meet You !!
 
@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 ###
 
@@ -52,11 +52,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mohit-Sable/Mohit-Sable/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mohit-Sable&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
