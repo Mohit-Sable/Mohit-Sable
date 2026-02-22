@@ -29,9 +29,7 @@
 
 ###
 
-
-
-## 🌐 Socials:
+# 💻 Tech Stack:
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="120" alt="html5 logo"  />
@@ -65,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="120" alt="vscode logo"  />
 </div>
 
-
+# 📊 GitHub Stats:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mohit-Sable&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
