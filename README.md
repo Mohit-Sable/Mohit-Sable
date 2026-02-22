@@ -25,14 +25,14 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 <h3 align="left">🎯 I am currently a junior pursuing my Bachelors in Computer science and engineering. <br> <br> 🍁 I have a keen interest in Open source. <br> <br> ✨ I'm passionate about learning new things and want to make some impactful contribution in the community.</h3>
-<br><br>     
+<br>     
 
 ###
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
 
 ## 🌐 Socials:
-
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="120" alt="html5 logo"  />
   <img width="5" />
