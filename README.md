@@ -70,10 +70,10 @@
 </div>
 <br>
 <div align="center">
-<a href="mailto:aryan1bhokare@gmail.com">
+<a href="mailto:mohitsable07@gmail.com">
  <img align="center" alt="Gmail" width="100" hight="80" src="https://github.com/aryan-bhokare/Aryan-bhokare/blob/main/assets/icons/gmail.png" />
 </a>
-<a href="https://linkedin.com/in/aryan-b-3803751a7">
+<a href="https://www.linkedin.com/in/mohit-sable-0a6b4035a/">
   <img align="center" alt="Linkedin" width="120" hight="80" src="https://github.com/aryan-bhokare/Aryan-bhokare/blob/main/assets/icons/linkedin.png" />
 </br>
 </div>
